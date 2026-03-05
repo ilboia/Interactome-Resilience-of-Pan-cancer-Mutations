@@ -1,4 +1,4 @@
-# Pan cancer resilience
+# Pan-cancer resilience
 This repo contains code to simulate removal of genes from consensus interactome and compute the resilience with several removal schems, including random removal and targeted removal (targeting high degree or highly mutated genes first)
 
 # Content
